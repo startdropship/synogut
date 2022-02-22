@@ -2,7 +2,6 @@ User-agent: *
 Disallow: /terms.html
 Disallow: /privacy.html
 Disallow: /disclaimer.html
-Disallow: /disclaimer.html
 Disallow: /cgi-bin/
 Sitemap: http://try-synogut.com/sitemap.xml
 
